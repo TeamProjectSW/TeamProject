@@ -30,7 +30,6 @@
 |팀장|김서연|hihellosunny|cortny1234@naver.com|
 |팀원|라언정|fkdjswjd1|fkdjswjd@naver.com|
 |팀장|김영민|YoungMinSW|namu9655@naver.com|
-|팀원|김서연|hihellosunny|cortny1234@naver.com|
 |팀원|박세린|pspsl|selyn0803@gmail.com|
 |팀원|고영선|anywayhey|mm4a88td@naver.com|
 |팀원|임준성|limjs1024 |limjs102412@gmail.com|
