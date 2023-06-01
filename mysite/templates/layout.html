@@ -25,9 +25,14 @@
          </a>
 
          <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-           <li><a href="http://127.0.0.1:8000/users/signup/" class="nav-link px-2 link-dark">회원가입</a></li>
-           <li><a href="http://127.0.0.1:8000/users/login/" class="nav-link px-2 link-dark">로그인/로그아웃</a></li>
-           <li><a href="#" class="nav-link px-2 link-dark">마이 페이지</a></li>
+           <li><a href="{% url 'users:update' %}" class="nav-link px-2 link-dark">마이 페이지</a></li>
+            <li > <!--추가시작-->
+             {% if user.is_authenticated %}
+               <a href="http://127.0.0.1:8000/users/logout"class="nav-link px-2 link-dark">{{user.nick_name}}님 (로그아웃)</a>
+             {% else %}
+               <a href="http://127.0.0.1:8000/users/login/"class="nav-link px-2 link-dark">로그인</a>
+             {% endif %}
+           </li><!--추가끝-->
          </ul>
        </div>
      </div>

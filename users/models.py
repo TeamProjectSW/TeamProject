@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import (
    BaseUserManager, AbstractBaseUser)
-
+from django.core.validators import RegexValidator
 class UserManager(BaseUserManager):
    def create_user(self, user_id, password, nick_name, email, phone_num):
        if not email:
@@ -26,9 +26,10 @@ class UserManager(BaseUserManager):
 
 class User(AbstractBaseUser):
    user_id = models.CharField(max_length=18 , verbose_name='아이디', unique=True)
-   nick_name = models.CharField(max_length=10, verbose_name='닉네임', null=True)
+   nick_name = models.CharField(max_length=10, verbose_name='닉네임', unique=True, null=True)
    email = models.EmailField(verbose_name='이메일', max_length=128, unique=True, null=True)
-   phone_num = models.IntegerField(verbose_name='전화번호', null=True)
+   phoneNumberRegex = RegexValidator(regex=r'^01([0|1|6|7|8|9]?)-?([0-9]{3,4})-?([0-9]{4})$')
+   phone_num = models.CharField(verbose_name='전화번호',validators=[phoneNumberRegex], max_length=11, unique=True)
    is_active = models.BooleanField(default=True)
    is_admin = models.BooleanField(default=False)
 
@@ -49,3 +50,5 @@ class User(AbstractBaseUser):
    @property
    def is_staff(self):
        return self.is_admin
+
+
