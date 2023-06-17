@@ -1,3 +1,4 @@
+![20230327_1642222721](https://github.com/TeamProjectSW/TeamProject/assets/109095108/494121c0-76c9-4688-bca1-2209fc1279a1)
 # 멀티캠퍼스 데이터 시각화 분석반 3회차
 
 ## "냥이의 하루, 안냥" 프로젝트 
@@ -23,15 +24,8 @@
 
 ### 팀 명: 대박징조
 ### 팀 구성원:
+![스크린샷 2023-06-17 오후 3 54 40](https://github.com/TeamProjectSW/TeamProject/assets/109095108/a7e45a31-5de1-415d-b705-6c51f0072b5f)
 
-|구성원|이름|아이디|연락처|
-|:-----:|:-----:|:-----:|:-----:|
-|팀장|김서연|hihellosunny|cortny1234@naver.com|
-|팀원|라언정|fkdjswjd1|fkdjswjd@naver.com|
-|팀원|김영민|YoungMinSW|namu9655@naver.com|
-|팀원|박세린|pspsl|selyn0803@gmail.com|
-|팀원|고영선|anywayhey|mm4a88td@naver.com|
-|팀원|임준성|limjs1024 |limjs102412@gmail.com|
 
 ### 노션 링크 : ~~
 - 해당 프로젝트에 대한 세부 내용은 해당 링크를 클릭하시면 됩니다.
