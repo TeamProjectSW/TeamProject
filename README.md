@@ -1,4 +1,4 @@
-![스크린샷 2023-06-20 오후 11 52 47](https://github.com/TeamProjectSW/TeamProject/assets/109095108/c501e093-f7aa-4b8e-a006-780be8f5dfbb)
+<img src=:"https://github.com/TeamProjectSW/TeamProject/assets/109095108/14741196-02c3-4ba2-a7d6-1e00c174d484" alt="이미지 설명" width="70%" height="50%">
 
 # 멀티캠퍼스 데이터 시각화 분석반 3회차 경진대회
 
