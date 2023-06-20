@@ -40,7 +40,7 @@
 
 
 
-### 노션 링크 : https://www.notion.so/2fd54ce6f700459fa172be86b213564b?pvs=4
+### "냥이의 하루, 안냥" 프로젝트가 궁금하시다면, [노션 링크](https://www.notion.so/2fd54ce6f700459fa172be86b213564b?pvs=4)를 클릭하세요. 
 ![스크린샷 2023-06-20 오후 11 51 53](https://github.com/TeamProjectSW/TeamProject/assets/109095108/ef0c82f3-e4b5-4017-b885-8232156d5432)
 
 
