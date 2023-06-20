@@ -2,6 +2,7 @@
 # 멀티캠퍼스 데이터 시각화 분석반 3회차
 
 ## "냥이의 하루, 안냥" 프로젝트 
+#### 팀 명: 대박징조
 
 
 ### 1. 개요
@@ -12,6 +13,7 @@
 
 
 ### 3. 사용된 기술
+![스크린샷 2023-06-20 오후 11 40 20](https://github.com/TeamProjectSW/TeamProject/assets/109095108/8e03d484-d9f6-4c17-867b-d6aaa354f336)
 
 
 ### 4. 결과
@@ -19,11 +21,10 @@
 
 ### 5. 서비스 구현
 
-### 출저: 
+### 6. 참고 자료
+![스크린샷 2023-06-20 오후 11 41 43](https://github.com/TeamProjectSW/TeamProject/assets/109095108/0c8a8c8d-790b-4d24-bd91-ef20634b8f60)
 
 
-
-### 팀 명: 대박징조
 ### 팀 구성원:
 ![스크린샷 2023-06-20 오후 11 37 00](https://github.com/TeamProjectSW/TeamProject/assets/109095108/dc8f83e1-f115-46ee-ad5d-8fbe701d40c2)
 
