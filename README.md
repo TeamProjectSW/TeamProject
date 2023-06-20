@@ -35,9 +35,8 @@
 ![스크린샷 2023-06-20 오후 11 41 43](https://github.com/TeamProjectSW/TeamProject/assets/109095108/0c8a8c8d-790b-4d24-bd91-ef20634b8f60)
 
 
-### 팀 구성원
-![스크린샷 2023-06-20 오후 11 37 00](https://github.com/TeamProjectSW/TeamProject/assets/109095108/dc8f83e1-f115-46ee-ad5d-8fbe701d40c2)
-
+### 팀 구성원 및 역할
+![스크린샷 2023-06-21 오전 12 01 44](https://github.com/TeamProjectSW/TeamProject/assets/109095108/0738a156-35fe-426c-88f5-701ac69b8cb8)
 
 
 ### "냥이의 하루, 안냥" 프로젝트가 궁금하시다면, [이곳을](https://www.notion.so/ecd74cb56c514e0794c71b525e49e814?pvs=4) 클릭하세요. 
