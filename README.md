@@ -45,7 +45,8 @@
 - 방대한 크기의 데이터 및 분석 파일은 구글 드라이브를 통해 제공됩니다.
 
 - 프로젝트 결과: 멀티캠퍼스 경진대회 최우수상 1위
-![이미지 설명](https://github.com/TeamProjectSW/TeamProject/assets/109095108/13db3bcf-987e-46b2-823f-b4b94c0a3d40){:height="50%" width="50%"}
+<img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/13db3bcf-987e-46b2-823f-b4b94c0a3d40" alt="이미지 설명" width="50%" height="50%">
+
 
 
 
