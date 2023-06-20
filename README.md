@@ -46,7 +46,8 @@
 
 - 프로젝트 결과: 멀티캠퍼스 경진대회 최우수상 1위
   ![스크린샷 2023-06-17 오후 12 03 18](https://github.com/TeamProjectSW/TeamProject/assets/109095108/13db3bcf-987e-46b2-823f-b4b94c0a3d40)
-  
+  ![스크린샷 2023-06-21 오전 12 06 30](https://github.com/TeamProjectSW/TeamProject/assets/109095108/240eee85-c3e2-4365-a1a8-5de427bb5f73)
+
 - 심사위원
 ![스크린샷 2023-06-20 오후 11 55 37](https://github.com/TeamProjectSW/TeamProject/assets/109095108/c7900a0e-e758-451f-939c-75b309ef5aab)
 
