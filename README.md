@@ -35,12 +35,12 @@
 ![스크린샷 2023-06-20 오후 11 41 43](https://github.com/TeamProjectSW/TeamProject/assets/109095108/0c8a8c8d-790b-4d24-bd91-ef20634b8f60)
 
 
-### 팀 구성원:
+### 팀 구성원
 ![스크린샷 2023-06-20 오후 11 37 00](https://github.com/TeamProjectSW/TeamProject/assets/109095108/dc8f83e1-f115-46ee-ad5d-8fbe701d40c2)
 
 
 
-### 노션 링크 : ~~
+### 노션 링크 : https://www.notion.so/2fd54ce6f700459fa172be86b213564b?pvs=4
 ![스크린샷 2023-06-20 오후 11 51 53](https://github.com/TeamProjectSW/TeamProject/assets/109095108/ef0c82f3-e4b5-4017-b885-8232156d5432)
 
 
