@@ -1,4 +1,6 @@
 ![20230327_1642222721](https://github.com/TeamProjectSW/TeamProject/assets/109095108/494121c0-76c9-4688-bca1-2209fc1279a1)
+![스크린샷 2023-06-20 오후 11 52 47](https://github.com/TeamProjectSW/TeamProject/assets/109095108/c501e093-f7aa-4b8e-a006-780be8f5dfbb)
+
 # 멀티캠퍼스 데이터 시각화 분석반 3회차
 
 ## "냥이의 하루, 안냥" 프로젝트 
@@ -40,7 +42,8 @@
 
 
 ### 노션 링크 : ~~
-![스크린샷 2023-06-20 오후 11 50 52](https://github.com/TeamProjectSW/TeamProject/assets/109095108/34730a65-22b1-4c96-ae8d-f33a3ae5f0be)
+![스크린샷 2023-06-20 오후 11 51 53](https://github.com/TeamProjectSW/TeamProject/assets/109095108/ef0c82f3-e4b5-4017-b885-8232156d5432)
+
 
 - 해당 프로젝트에 대한 세부 내용은 해당 링크를 클릭하시면 됩니다.
 - 방대한 크기의 데이터 및 분석 파일은 구글 드라이브를 통해 제공됩니다.
