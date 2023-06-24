@@ -19,7 +19,8 @@
   
 
 ### 2. 데이터셋 소개
-![스크린샷 2023-06-20 오후 11 36 08](https://github.com/TeamProjectSW/TeamProject/assets/109095108/93894708-228c-4a5e-b1a3-41b6b175a4d4)
+![스크린샷 2023-06-24 오후 1 05 35](https://github.com/TeamProjectSW/TeamProject/assets/109095108/35fb516b-2f79-40c6-a049-10cc3229f185)
+
 
 
 ### 3. 사용된 기술
