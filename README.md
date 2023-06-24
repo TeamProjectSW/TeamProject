@@ -48,7 +48,7 @@
 
 
 #### 심사위원
-<img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/c7900a0e-e758-451f-939c-75b309ef5aab" alt="이미지 설명" width="70%" height="60%">
+<img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/c7900a0e-e758-451f-939c-75b309ef5aab" alt="이미지 설명" width="50%" height="40%">
 
 
   
