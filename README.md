@@ -7,7 +7,7 @@
 
 
 
-### 1. 개요 및 목적
+### - 개요 및 목적
 - 해당 프로젝트는 이미지 분류를 통해 반려묘의 안구 질환을 진단하는 서비스를 반려묘의 건강 일지를 기록할 수 있는 서비스와 함께 제공
 
 
@@ -19,27 +19,22 @@
 
   
 
-### 2. 데이터셋 소개
+### - 데이터셋 소개
 ![스크린샷 2023-06-24 오후 1 05 35](https://github.com/TeamProjectSW/TeamProject/assets/109095108/35fb516b-2f79-40c6-a049-10cc3229f185)
 
 
 
-### 3. 사용된 기술
+### - 사용된 기술
 ![스크린샷 2023-06-24 오후 1 07 27](https://github.com/TeamProjectSW/TeamProject/assets/109095108/a7b493df-2d48-4d95-abed-dcf0a2af76d0)
 
-
-
-### 4. 결과
-
-
-### 5. 서비스 구현
+### - 결과
 <img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/170c1d6e-c5b9-4783-abb4-a214053b3e34" alt="이미지 설명" width="70%" height="55%">
 
-### 6. 참고 자료
+### - 참고 자료
 ![스크린샷 2023-06-20 오후 11 41 43](https://github.com/TeamProjectSW/TeamProject/assets/109095108/0c8a8c8d-790b-4d24-bd91-ef20634b8f60)
 
 
-### 팀 구성원 및 역할
+### - 팀 구성원 및 역할
 ![스크린샷 2023-06-21 오전 12 05 06](https://github.com/TeamProjectSW/TeamProject/assets/109095108/446c98dc-52b7-4666-a009-21ab9b035360)
 
 
