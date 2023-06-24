@@ -39,7 +39,7 @@
 
 ### "냥이의 하루, 안냥" 프로젝트가 궁금하시다면, [이곳을](https://www.notion.so/ecd74cb56c514e0794c71b525e49e814?pvs=4) 클릭하세요. 
 
-- 방대한 크기의 데이터 및 분석 파일은 구글 드라이브를 통해 제공됩니다.
+- 데이터 및 분석 파일은 구글 드라이브를 통해 제공됩니다.
 
 - 프로젝트 결과: 멀티캠퍼스 경진대회 최우수상 1위
 <img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/13db3bcf-987e-46b2-823f-b4b94c0a3d40" alt="이미지 설명" width="70%" height="50%">
