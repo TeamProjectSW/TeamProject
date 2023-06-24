@@ -26,7 +26,7 @@
 ![스크린샷 2023-06-24 오후 1 07 27](https://github.com/TeamProjectSW/TeamProject/assets/109095108/a7b493df-2d48-4d95-abed-dcf0a2af76d0)
 
 ### - 결과
-<img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/170c1d6e-c5b9-4783-abb4-a214053b3e34" alt="이미지 설명" width="70%" height="55%">
+<img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/170c1d6e-c5b9-4783-abb4-a214053b3e34" alt="이미지 설명" width="65%" height="45%">
 
 ### - 참고 자료
 ![스크린샷 2023-06-20 오후 11 41 43](https://github.com/TeamProjectSW/TeamProject/assets/109095108/0c8a8c8d-790b-4d24-bd91-ef20634b8f60)
