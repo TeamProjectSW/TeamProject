@@ -24,7 +24,8 @@
 
 
 ### 3. 사용된 기술
-![스크린샷 2023-06-20 오후 11 40 20](https://github.com/TeamProjectSW/TeamProject/assets/109095108/8e03d484-d9f6-4c17-867b-d6aaa354f336)
+![스크린샷 2023-06-24 오후 1 07 27](https://github.com/TeamProjectSW/TeamProject/assets/109095108/a7b493df-2d48-4d95-abed-dcf0a2af76d0)
+
 
 
 ### 4. 결과
