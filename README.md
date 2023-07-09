@@ -18,7 +18,8 @@
   
 
 ### - 데이터셋 소개
-![스크린샷 2023-06-24 오후 1 05 35](https://github.com/TeamProjectSW/TeamProject/assets/109095108/35fb516b-2f79-40c6-a049-10cc3229f185)
+![스크린샷 2023-07-09 오후 2 45 54](https://github.com/TeamProjectSW/TeamProject/assets/109095108/dde5b212-ff1d-4d5a-903f-ed70422a3a8e)
+
 
 
 
@@ -33,7 +34,8 @@
 
 
 ### - 팀 구성원 및 역할
-![스크린샷 2023-07-09 오후 2 30 43](https://github.com/TeamProjectSW/TeamProject/assets/109095108/427a96e5-cb3c-46cf-b7b7-acdd6feb2ebe)
+![스크린샷 2023-07-09 오후 2 44 31](https://github.com/TeamProjectSW/TeamProject/assets/109095108/65b48df9-6451-46d4-a534-d83ca11f120f)
+
 
 
 
