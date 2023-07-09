@@ -37,7 +37,11 @@
 ### - 팀 구성원 및 역할
 ![스크린샷 2023-07-09 오후 2 44 31](https://github.com/TeamProjectSW/TeamProject/assets/109095108/65b48df9-6451-46d4-a534-d83ca11f120f)
 
+### "냥이의 하루, 안냥" 웹 서비스가 궁금하시다면, [이곳을](https://limjs102412-pythonproject2-home-ijsfek.streamlit.app) 클릭하세요.
 
+- 고양이 안구와 동물병원 정보, 일지 등 반려묘에게 도움이되는 다양한 정보를 제공합니다.
+- ID, PassWord는 hong1, hong1을 입력하시면 간편하게 이용하실 수 있습니다.
+- Chatbot 서비스는 API 배포 기간 문제로 일시적으로 중단된 상태입니다.
 
 
 ### "냥이의 하루, 안냥" 프로젝트가 궁금하시다면, [이곳을](https://www.notion.so/ecd74cb56c514e0794c71b525e49e814?pvs=4) 클릭하세요. 
@@ -46,12 +50,6 @@
 
 - 프로젝트 결과: 멀티캠퍼스 경진대회 최우수상 1위
 <img src="https://github.com/TeamProjectSW/TeamProject/assets/109095108/f32dfc33-137b-457a-9097-b667b9c23b16" alt="이미지 설명" width="70%" height="80%">
-
-### "냥이의 하루, 안냥" 웹 서비스가 궁금하시다면, [이곳을](https://limjs102412-pythonproject2-home-ijsfek.streamlit.app) 클릭하세요.
-
-- 고양이 안구와 동물병원 정보, 일지 등 반려묘에게 도움이되는 다양한 정보를 제공합니다.
-- ID, PassWord는 hong1, hong1을 입력하시면 간편하게 이용하실 수 있습니다.
-- Chatbot 서비스는 API 배포 기간 문제로 일시적으로 중단된 상태입니다.
 
 
 
